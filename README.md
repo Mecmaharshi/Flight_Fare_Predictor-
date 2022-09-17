@@ -46,6 +46,4 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 - Use multiple Algorithms
 - Optimize Flask app.py
 - Front-End
-# Flight_Fare_Prediction
-#� �F�l�i�g�h�t�_�F�a�r�e�_�P�r�e�d�i�c�t�o�r�-�
-�
+
